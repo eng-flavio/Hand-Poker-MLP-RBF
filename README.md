@@ -3,6 +3,7 @@
  
  ## Pré-requisitos 
   - MATLAB 2018b ou superior
+  - [Python 3.9](https://www.python.org/)
   - Base de dados **Poker-Hand** 
   - Bibliotecas e *Frameworks* para Python (`scikit-learn`, `scikitplot`, `matplotlib` e `numpy`)
 
